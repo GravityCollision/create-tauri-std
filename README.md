@@ -1,7 +1,37 @@
-# Tauri + Svelte + Typescript
+# create-tauri-std
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+The fastest and easiest way to get started with Tauri, featuring:
 
-## Recommended IDE Setup
+- Tauri
+- Vite
+- Svelte
+- TypeScript
+- Tailwind CSS
+- daisyUI
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Start here and reduce boilerplate fatigue. Have a suggestion? Create a Pull Request and become a Contrinbutor to make this even better.
+
+## Goal
+
+A lightweight and simple desktop application with:
+- 🦀 **secured** Rust backend
+- 💡 **simplified** frontend using Svelte
+- 😎 **styled** with Tailwind CSS
+- 📖 **drop-in** Tailwind components
+- 🤝 **developer-friendly** Hot Module Reload
+
+## Features
+
+- ✅ Latest Tauri *(currently 1.2)*
+- ✅ Vite for HMR *(Hot Module Reloading)*
+- ✅ Svelte *(not SvelteKit)*
+- ✅ TypeScript *(Type-safe communication)*
+- ✅ Tailwind CSS *(#1 Utility-Class CSS Framework)*
+- ✅ daisyUI *(#1 Tailwind CSS Component Library)*
+
+## Getting Started
+
+If you've worked with Tauri before, you should have all the prerequisites already installed.  If you haven't, then follow their prerequisites guide, linked below. They have instructions for Windows, macOS, and Linux.
+
+https://tauri.app/v1/guides/getting-started/prerequisites
+

@@ -35,3 +35,13 @@ If you've worked with Tauri before, you should have all the prerequisites alread
 
 https://tauri.app/v1/guides/getting-started/prerequisites
 
+Once you have the prerequisites installed:
+
+1. Clone this Repo (npx command coming soon)
+2. npm install (to install the dependencies)
+3. npm run tauri dev (to build and run the development tool)
+  a. NOTE: This will take a while, depending on the PC
+4. The Tauri Application should build and display
+5. Log any issues, in the "Issues" section above
+
+Should run on Windows, macOS, and Linux.

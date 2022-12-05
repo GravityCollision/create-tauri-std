@@ -38,10 +38,17 @@ https://tauri.app/v1/guides/getting-started/prerequisites
 Once you have the prerequisites installed:
 
 1. Clone this Repo (npx command coming soon)
-2. npm install (to install the dependencies)
-3. npm run tauri dev (to build and run the development tool)
+2. **npm install** (to install the dependencies)
+3. **npm run tauri dev** (to build and run the development tool)
   a. NOTE: This will take a while, depending on the PC
 4. The Tauri Application should build and display
 5. Log any issues, in the "Issues" section above
 
 Should run on Windows, macOS, and Linux.
+
+## Upcoming Features
+
+- Asynchronous Rust Thread (separate thread from Tauri)
+- Integrated daisyUI ThemeChange() dropdown
+- Example Landing Page (styled with Tailwind CSS and daisyUI)
+- Working Async send / receive in Example Page (JS to Rust, and Rust to JS)
